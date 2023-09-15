@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.continer {
+    display: flex;
+}
+
+.headNav iframe {
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 1450px;
+    height: 1000px;
+    border: transparent;
+    overflow: hidden;
+
+}
+
+.sideNav iframe {
+    margin-top: 74px;
+    margin-left: -1455px;
+    height: 100%;
+}
+
+.main iframe {
+    margin-top: 75px;
+    margin-left: -1198px;
+    margin-right: 0px;
+    width: 1150px;
+    height: 100%;
+    padding: 0%;
+}

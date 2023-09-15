@@ -1,0 +1,136 @@
+body {
+    background-color: white;
+    overflow-x: hidden;
+}
+
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px;
+    border-color: transparent;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+span {
+    margin-left: 30px;
+}
+
+#homeButton {
+    margin-left: 30px;
+}
+
+#nextButton {
+    /*margin-right: 50px;
+    margin-left: 1187px;*/
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 86%;
+
+}
+
+#freeTutorial {
+    margin-bottom: 20px;
+}
+
+#watchVideo {
+    background-color: #282A35;
+}
+
+.introContent {
+    background-color: #D9EEE1;
+    margin-top: 30px;
+    padding: 20px;
+
+}
+
+.codeSpace {
+    padding: 10px;
+    background-color: #E7E9EB;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.codeimg {
+    margin: 30px;
+}
+
+#exampleText {
+    font-size: 30px;
+}
+
+#tryItYourself {
+    margin-left: 30px;
+}
+
+b {
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#exerciseImg {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#startQuizButton {
+    background-color: #2196F3;
+    margin: 30px;
+    font-size: 15px;
+}
+
+table {
+    margin-left: 30px;
+}
+
+#referButton {
+    background-color: #E7E9EB;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+td {
+    padding: 10px;
+}
+
+.kickstart {
+    background-color: #282A35;
+    color: #FFC0C7;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+#getCertifiedButtom {
+    margin-left: 30px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+#homeButtonEnd {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 30px;
+}
+
+#loginEnd {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-left: 35%;
+}
+
+#nextButtonEnd {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 35%;
+}
